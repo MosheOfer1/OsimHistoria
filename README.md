@@ -4,13 +4,13 @@ This project extracts all the episodes tiltels and descriptions from the **"עו
 
 ---
 
-### 2D UMAP Map
-
-![2D Map](./out/clusters_umap.png)
-
 ### 3D UMAP Map
 
 ![3D UMAP](./out/UMAP_3D.gif)
+
+### 2D UMAP Map
+
+![2D Map](./out/clusters_umap.png)
 
 ---
 
